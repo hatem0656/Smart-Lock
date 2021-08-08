@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLock_GUI", "SmartLock_GUI.csproj", "{DA43897A-54BE-4AD2-B71F-9F9A5A56014D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA43897A-54BE-4AD2-B71F-9F9A5A56014D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA43897A-54BE-4AD2-B71F-9F9A5A56014D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA43897A-54BE-4AD2-B71F-9F9A5A56014D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA43897A-54BE-4AD2-B71F-9F9A5A56014D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC391CFE-9B08-487F-A690-331956F15D95}
+	EndGlobalSection
+EndGlobal
