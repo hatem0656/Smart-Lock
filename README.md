@@ -1,1 +1,3 @@
 # Smart-Lock
+Smart Lock which can be applied on any door; we use here an arduino and GUI application using C#. By using a proximity sensor which will detect the presence the person in front of the smart lock or not if the sensor detects him, the lock will operate and start its task and if it does not detect a person, the lock will not operate.
+If the person moves against the smart lock, the sensor detects his presence and GUI shows an open word which means that the smart lock is opened and the user enters the password, and it will be compared by the default password in the source code, and if the password is right, the door will be opened and if the password which be entered by the user is wrong, the door is still closed (motor).
